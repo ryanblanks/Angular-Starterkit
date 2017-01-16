@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/ryanblanks/Angular-Starterkit#readme",
   "dependencies": {
-
+    "angular": "1.6.1"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
